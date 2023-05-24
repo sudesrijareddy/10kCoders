@@ -1,2 +1,2 @@
 # 10kCoders
-To upload my work up to date.
+To upload my work up to date and for collaboration
